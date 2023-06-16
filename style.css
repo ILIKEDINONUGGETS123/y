@@ -1,0 +1,27 @@
+body
+{
+  background-color: aquamarine;  
+}
+#score
+{
+font-size:23px ;
+margin: 10px;
+
+}
+
+#time
+{
+    font-size: 32px; 
+    float: right;
+    margin-right: 12px;
+}
+
+#STBD
+{
+color: blueviolet;
+}
+
+#STBD
+{
+float: right;
+}
